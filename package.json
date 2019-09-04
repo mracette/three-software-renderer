@@ -1,0 +1,28 @@
+{
+  "name": "three-software-renderer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Racette",
+  "license": "ISC",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.0.19",
+    "audio-decode": "^1.4.0",
+    "canvas": "^2.6.0",
+    "decibels": "^2.0.0",
+    "fft-js": "0.0.12",
+    "fluent-ffmpeg": "^2.1.2",
+    "fourier-transform": "^1.1.2",
+    "fs": "0.0.1-security",
+    "ndarray": "^1.0.18",
+    "ndarray-complex": "^1.0.3",
+    "ndarray-fft": "^1.0.3",
+    "path": "^0.12.7",
+    "sharp": "^0.23.0",
+    "three": "^0.108.0",
+    "window-function": "^2.1.0"
+  }
+}
