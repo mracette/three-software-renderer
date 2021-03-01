@@ -22,7 +22,7 @@
     "ndarray-fft": "^1.0.3",
     "path": "^0.12.7",
     "sharp": "^0.23.0",
-    "three": "^0.108.0",
+    "three": "^0.125.0",
     "window-function": "^2.1.0"
   }
 }
