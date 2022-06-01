@@ -21,7 +21,7 @@
     "ndarray-complex": "^1.0.3",
     "ndarray-fft": "^1.0.3",
     "path": "^0.12.7",
-    "sharp": "^0.23.0",
+    "sharp": "^0.30.5",
     "three": "^0.108.0",
     "window-function": "^2.1.0"
   }
